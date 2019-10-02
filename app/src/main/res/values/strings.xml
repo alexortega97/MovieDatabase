@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MovieDatabase Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title">Movie title</string>
+    <string name="release_date_lb">Relase date:</string>
+    <string name="release_date">18- mar- 2008</string>
+    <string name="average_vote_lb">Vote Avg:</string>
+    <string name="average_vote">10.0</string>
+    <string name="overview">Overview</string>
+
 </resources>
